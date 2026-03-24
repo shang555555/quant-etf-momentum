@@ -1,4 +1,11 @@
-﻿# ETF 动量轮动策略研究（Momentum Rotation Strategy on ETFs）
+﻿## 🚀 Key Results
+
+- 📈 年化收益：12.57%（全样本）
+- 🔁 Walk-forward（滚动测试）：平均年化 ~3%，胜率 70%
+- ⚠️ 最大回撤：-25.35%
+
+👉 结论：策略在长期趋势市场有效，但在震荡市表现较弱
+# ETF 动量轮动策略研究（Momentum Rotation Strategy on ETFs）
 
 📈 ETF 动量轮动策略研究（Momentum Rotation Strategy on ETFs）
 📌 项目简介
